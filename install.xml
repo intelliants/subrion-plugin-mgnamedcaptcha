@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<plugin name="mgnamedcaptcha">
+	<title>mgNamedCaptcha</title>
+	<summary>This plugin generates alternative captcha for the forms to prevent bots submissions</summary>
+	<author>ModsGuru</author>
+	<contributor>ModsGuru</contributor>
+	<version>3.2.0</version>
+	<date>2015-01-29</date>
+	<category>captchas</category>
+	<compatibility>3.2.6</compatibility>
+</plugin>
