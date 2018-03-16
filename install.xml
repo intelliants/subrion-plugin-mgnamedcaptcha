@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <module type="plugin" name="mgnamedcaptcha">
-	<title>mgNamedCaptcha</title>
-	<summary>This plugin generates alternative captcha for the forms to prevent bots submissions</summary>
-	<author>Intelliants LLC</author>
-	<contributor>Intelliants LLC</contributor>
-	<version>4.1.0</version>
-	<date>2017-02-22</date>
-	<category>captcha</category>
-	<compatibility>4.1</compatibility>
+    <title>mgNamedCaptcha</title>
+    <summary>This plugin generates alternative captcha for the forms to prevent bots submissions</summary>
+    <author>Intelliants LLC</author>
+    <contributor>Intelliants LLC</contributor>
+    <version>4.2.0</version>
+    <date>2018-02-14</date>
+    <category>captcha</category>
+    <compatibility>4.2</compatibility>
 </module>
